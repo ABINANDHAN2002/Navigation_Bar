@@ -10,5 +10,6 @@ Technologies Used
 -CSS
 
 To run 
-To run this webpage 
+To run this webpage  Click and Run the navigation_home.html file
+
 
