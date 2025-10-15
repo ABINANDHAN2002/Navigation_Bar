@@ -1,15 +1,20 @@
-A simple HTML and CSS navigaion bar with a sticky top and a clean,minimal layout.
-The navigation bar stays fixed the top scrolling,ensuring easy access to navigation links at all times.
+# 🌐 Navigation Bar Website (HTML & CSS)
 
-Features
--Sticky navigation bar that stays visible while scrolling.
--Simple and clean UI design.
+A simple **multi-page website** built using **only HTML and CSS**, featuring a **sticky navigation bar** and linked pages — Home, About, and Details.  
+This project demonstrates how to create navigation between multiple HTML pages with clean styling and layout.
 
-Technologies Used
--HTML
--CSS
+---
+## 🚀 How to Run
 
-To run 
-To run this webpage  Click and Run the navigation_home.html file
+To view this webpage:
+
+👉 **Click and Run the `navigation_home.html` file** in your web browser.
+
+Alternatively:
+1. **Clone or Download** this repository  
+   ```bash
+   git clone https://github.com/ABINANDHAN2002/LoginForm-.git
+   cd LoginForm-
+Open navigation_home.html in your browser to start exploring the site.
 
 
